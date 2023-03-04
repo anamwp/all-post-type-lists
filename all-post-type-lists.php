@@ -4,7 +4,7 @@
  * Plugin URI:      https://anam.rocks/
  * Description:     A plugin to show all post types
  * Author:          Md Anam Hossain
- * Author URI:      https://anam.rocks/
+ * Author URI:      https://profiles.wordpress.org/theanamhossain/
  * Text Domain:     all-post-type-lists
  * Domain Path:     /languages
  * Version:         0.1.0
